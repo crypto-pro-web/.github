@@ -13,7 +13,9 @@
  
  ## Хотите помочь?
  - [Проспонсируйте разработку](https://github.com/crypto-pro-web/.github/blob/main/HELPING_OUT.md#sponsor)
- - [Внесите вклад в проект](https://github.com/crypto-pro-web/.github/blob/main/HELPING_OUT.md#contribute)
+ - [Давайте сделаем интеграцию с вашим продуктом](https://github.com/crypto-pro-web/.github/blob/main/HELPING_OUT.md#let-us-do-your-integration)
+ - [Внесите свой вклад в проект](https://github.com/crypto-pro-web/.github/blob/main/HELPING_OUT.md#contribute)
+ - [Помогите с поддержкой пакетов](https://github.com/crypto-pro-web/.github/blob/main/HELPING_OUT.md#maintain)
 
 ## Участие в проекте
 Присылайте свой код, сообщайте о проблемах, задавайте вопросы! Любое участие приветствуется! 
