@@ -12,12 +12,14 @@
  Интерфейс доступен в виде библиотеки классов на языках PHP и JS.
  
  ## Хотите помочь?
+ 
  - [Проспонсируйте разработку](https://github.com/crypto-pro-web/.github/blob/main/HELPING_OUT.md#sponsor)
  - [Давайте сделаем интеграцию с вашим продуктом](https://github.com/crypto-pro-web/.github/blob/main/HELPING_OUT.md#let-us-do-your-integration)
  - [Внесите свой вклад в проект](https://github.com/crypto-pro-web/.github/blob/main/HELPING_OUT.md#contribute)
  - [Помогите с поддержкой пакетов](https://github.com/crypto-pro-web/.github/blob/main/HELPING_OUT.md#maintain)
 
 ## Участие в проекте
+
 Присылайте свой код, сообщайте о проблемах, задавайте вопросы! Любое участие приветствуется! 
 Перед тем, как стать участником проекта, убедитесь, что вы прочитали наши общие [принципы участия](https://github.com/crypto-pro-web/.github/blob/main/CONTRIBUTING.md).
-Ваш код будет опубликован под [лицензией MIT](https://github.com/crypto-pro-web/.github/blob/main/LICENSE) (лицензия наиболее близка к (Государственной открытой лицензии, версии 1.1)[https://g.info.gov.ru/datamart/nsud-datamarts/-/blob/master/open_license_ru]).
+Ваш код будет опубликован под [лицензией MIT](https://github.com/crypto-pro-web/.github/blob/main/LICENSE) (лицензия наиболее близка к [Государственной открытой лицензии, версии 1.1](https://g.info.gov.ru/datamart/nsud-datamarts/-/blob/master/open_license_ru)).
