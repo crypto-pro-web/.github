@@ -21,5 +21,6 @@
 ## Участие в проекте
 
 Присылайте свой код, сообщайте о проблемах, задавайте вопросы! Любое участие приветствуется! 
+
 Перед тем, как стать участником проекта, убедитесь, что вы прочитали наши общие [принципы участия](https://github.com/crypto-pro-web/.github/blob/main/CONTRIBUTING.md).
 Ваш код будет опубликован под [лицензией MIT](https://github.com/crypto-pro-web/.github/blob/main/LICENSE) (лицензия наиболее близка к [Государственной открытой лицензии, версии 1.1](https://g.info.gov.ru/datamart/nsud-datamarts/-/blob/master/open_license_ru)).
